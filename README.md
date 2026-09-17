@@ -142,6 +142,64 @@ The analysis provides:
 
 ```text
 
+\# Bayesian Material Flow Analysis of E-Waste in India
+
+
+
+\## Project Overview
+
+
+
+This project applies Bayesian inference to material flow analysis (MFA) of e-waste in India. The analysis estimates e-waste generation, collection, recycling, and material flows while accounting for uncertainty in the available data.
+
+
+
+\## Objectives
+
+
+
+\- Estimate e-waste generation and material flows.
+
+\- Analyze collection and recycling flows.
+
+\- Apply Bayesian inference to quantify uncertainty.
+
+\- Compare observed and Bayesian-estimated material flows.
+
+\- Visualize material-flow results and uncertainty.
+
+
+
+\## Technologies and Tools
+
+
+
+\- Python
+
+\- Jupyter Notebook
+
+\- Pandas
+
+\- NumPy
+
+\- Matplotlib
+
+\- PyMC
+
+\- ArviZ
+
+\- Bayesian Inference
+
+\- Material Flow Analysis (MFA)
+
+
+
+\## Project Structure
+
+
+
+```text
+
 Bayesian-Material-Flow-Analysis-India/
 
 │
@@ -153,74 +211,4 @@ Bayesian-Material-Flow-Analysis-India/
 ├── README.md
 
 └── .gitignore
-
-\## Files
-
-
-
-\### Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb
-
-
-
-Main Jupyter Notebook containing the data analysis, material-flow calculations, Bayesian analysis, and visualizations.
-
-
-
-\### Data.xlsx
-
-
-
-Input data used for the analysis.
-
-
-
-\## How to Run
-
-
-
-1\. Download or clone this repository.
-
-2\. Install the required Python libraries.
-
-3\. Open `Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb` in Jupyter Notebook or JupyterLab.
-
-4\. Ensure that `Data.xlsx` is in the same project directory.
-
-5\. Run the notebook cells sequentially.
-
-
-
-\## Applications
-
-
-
-This analysis can support:
-
-
-
-\- E-waste management assessment
-
-\- Recycling-system analysis
-
-\- Resource recovery studies
-
-\- Circular economy research
-
-\- Uncertainty-aware material-flow assessment
-
-
-
-\## Author
-
-
-
-\*\*Arvind Kumar Yadav\*\*
-
-
-
-M.Tech – E-waste Resource Engineering and Management
-
-
-
-Indian Institute of Technology Hyderabad
 
