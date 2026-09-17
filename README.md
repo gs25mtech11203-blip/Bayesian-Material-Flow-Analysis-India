@@ -1,4 +1,4 @@
-\# Bayesian Material Flow Analysis of E-waste in India
+\# Bayesian Material Flow Analysis of E-Waste in India
 
 
 
@@ -140,75 +140,83 @@ The analysis provides:
 
 
 
-```text
+\- Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb — Main Jupyter Notebook containing the complete analysis.
 
-\# Bayesian Material Flow Analysis of E-Waste in India
+\- Data.xlsx — Input dataset used for the analysis.
 
+\- README.md — Project documentation.
 
-
-\## Project Overview
-
-
-
-This project applies Bayesian inference to material flow analysis (MFA) of e-waste in India. The analysis estimates e-waste generation, collection, recycling, and material flows while accounting for uncertainty in the available data.
+\- .gitignore — Git configuration file.
 
 
 
-\## Objectives
+\## Files
 
 
 
-\- Estimate e-waste generation and material flows.
-
-\- Analyze collection and recycling flows.
-
-\- Apply Bayesian inference to quantify uncertainty.
-
-\- Compare observed and Bayesian-estimated material flows.
-
-\- Visualize material-flow results and uncertainty.
+\### Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb
 
 
 
-\## Technologies and Tools
+Main Jupyter Notebook containing the data analysis, material-flow calculations, Bayesian analysis, and visualizations.
 
 
 
-\- Python
-
-\- Jupyter Notebook
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- PyMC
-
-\- ArviZ
-
-\- Bayesian Inference
-
-\- Material Flow Analysis (MFA)
+\### Data.xlsx
 
 
 
-\## Project Structure
+Input data used for the analysis.
 
 
 
-```text
+\## How to Run
 
-Bayesian-Material-Flow-Analysis-India/
 
-│
 
-├── Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb
+1\. Download or clone this repository.
 
-├── Data.xlsx
+2\. Install the required Python libraries.
 
-├── README.md
+3\. Open Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb in Jupyter Notebook or JupyterLab.
 
-└── .gitignore
+4\. Ensure that Data.xlsx is available in the project directory.
+
+5\. Run the notebook cells sequentially.
+
+
+
+\## Applications
+
+
+
+This analysis can support:
+
+
+
+\- E-waste management assessment
+
+\- Recycling-system analysis
+
+\- Resource recovery studies
+
+\- Circular economy research
+
+\- Uncertainty-aware material-flow assessment
+
+
+
+\## Author
+
+
+
+\*\*Arvind Kumar Yadav\*\*
+
+
+
+M.Tech – E-waste Resource Engineering and Management
+
+
+
+Indian Institute of Technology Hyderabad
 
