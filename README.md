@@ -1,8 +1,8 @@
-\# Bayesian Material Flow Analysis of E-Waste in India
+﻿# Bayesian Material Flow Analysis of E-Waste in India
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,23 +14,23 @@ The analysis incorporates uncertainty into material-flow estimation using Bayesi
 
 
 
-\## Objectives
+## Objectives
 
 
 
-\- Estimate e-waste generation in India.
+- Estimate e-waste generation in India.
 
-\- Analyze observed e-waste collection and recycling flows.
+- Analyze observed e-waste collection and recycling flows.
 
-\- Estimate collection and recycling flows using Bayesian inference.
+- Estimate collection and recycling flows using Bayesian inference.
 
-\- Quantify uncertainty in material-flow estimates.
+- Quantify uncertainty in material-flow estimates.
 
-\- Compare observed and Bayesian-estimated results.
+- Compare observed and Bayesian-estimated results.
 
 
 
-\## Methodology
+## Methodology
 
 
 
@@ -38,25 +38,25 @@ The analysis follows these steps:
 
 
 
-1\. Data preparation and preprocessing
+1. Data preparation and preprocessing
 
-2\. Exploratory data analysis
+2. Exploratory data analysis
 
-3\. Estimation of e-waste generation
+3. Estimation of e-waste generation
 
-4\. Analysis of observed collection and recycling flows
+4. Analysis of observed collection and recycling flows
 
-5\. Bayesian material-flow estimation
+5. Bayesian material-flow estimation
 
-6\. Uncertainty quantification
+6. Uncertainty quantification
 
-7\. Comparison of observed and Bayesian estimates
+7. Comparison of observed and Bayesian estimates
 
-8\. Visualization and interpretation of results
+8. Visualization and interpretation of results
 
 
 
-\## Bayesian Analysis
+## Bayesian Analysis
 
 
 
@@ -68,21 +68,21 @@ The analysis includes:
 
 
 
-\- E-waste generation
+- E-waste generation
 
-\- Collected e-waste
+- Collected e-waste
 
-\- Recycled e-waste
+- Recycled e-waste
 
-\- Collection fraction
+- Collection fraction
 
-\- Recycling fraction
+- Recycling fraction
 
-\- Overall recycling fraction
+- Overall recycling fraction
 
 
 
-\## Key Outputs
+## Key Outputs
 
 
 
@@ -90,71 +90,71 @@ The analysis provides:
 
 
 
-\- Observed e-waste collection
+- Observed e-waste collection
 
-\- Bayesian-estimated e-waste collection
+- Bayesian-estimated e-waste collection
 
-\- Observed e-waste recycling
+- Observed e-waste recycling
 
-\- Bayesian-estimated e-waste recycling
+- Bayesian-estimated e-waste recycling
 
-\- Observed collection fraction
+- Observed collection fraction
 
-\- Bayesian collection fraction
+- Bayesian collection fraction
 
-\- Observed recycling fraction
+- Observed recycling fraction
 
-\- Bayesian recycling fraction
+- Bayesian recycling fraction
 
-\- Observed overall recycling fraction
+- Observed overall recycling fraction
 
-\- Bayesian overall recycling fraction
-
-
-
-\## Technologies and Tools
+- Bayesian overall recycling fraction
 
 
 
-\- Python
-
-\- Jupyter Notebook
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- PyMC
-
-\- ArviZ
-
-\- Bayesian Inference
-
-\- Material Flow Analysis (MFA)
+## Technologies and Tools
 
 
 
-\## Project Structure
+- Python
+
+- Jupyter Notebook
+
+- Pandas
+
+- NumPy
+
+- Matplotlib
+
+- PyMC
+
+- ArviZ
+
+- Bayesian Inference
+
+- Material Flow Analysis (MFA)
 
 
 
-\- Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb — Main Jupyter Notebook containing the complete analysis.
-
-\- Data.xlsx — Input dataset used for the analysis.
-
-\- README.md — Project documentation.
-
-\- .gitignore — Git configuration file.
+## Project Structure
 
 
 
-\## Files
+- Bayesian_Material_Flow_Analysis_in_India.ipynb â€” Main Jupyter Notebook containing the complete analysis.
+
+- Data.xlsx â€” Input dataset used for the analysis.
+
+- README.md â€” Project documentation.
+
+- .gitignore â€” Git configuration file.
 
 
 
-\### Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb
+## Files
+
+
+
+### Bayesian_Material_Flow_Analysis_in_India.ipynb
 
 
 
@@ -162,7 +162,7 @@ Main Jupyter Notebook containing the data analysis, material-flow calculations, 
 
 
 
-\### Data.xlsx
+### Data.xlsx
 
 
 
@@ -170,23 +170,23 @@ Input data used for the analysis.
 
 
 
-\## How to Run
+## How to Run
 
 
 
-1\. Download or clone this repository.
+1. Download or clone this repository.
 
-2\. Install the required Python libraries.
+2. Install the required Python libraries.
 
-3\. Open Bayesian\_Material\_Flow\_Analysis\_in\_India.ipynb in Jupyter Notebook or JupyterLab.
+3. Open Bayesian_Material_Flow_Analysis_in_India.ipynb in Jupyter Notebook or JupyterLab.
 
-4\. Ensure that Data.xlsx is available in the project directory.
+4. Ensure that Data.xlsx is available in the project directory.
 
-5\. Run the notebook cells sequentially.
+5. Run the notebook cells sequentially.
 
 
 
-\## Applications
+## Applications
 
 
 
@@ -194,29 +194,31 @@ This analysis can support:
 
 
 
-\- E-waste management assessment
+- E-waste management assessment
 
-\- Recycling-system analysis
+- Recycling-system analysis
 
-\- Resource recovery studies
+- Resource recovery studies
 
-\- Circular economy research
+- Circular economy research
 
-\- Uncertainty-aware material-flow assessment
-
-
-
-\## Author
+- Uncertainty-aware material-flow assessment
 
 
 
-\*\*Arvind Kumar Yadav\*\*
+## Author
 
 
 
-M.Tech – E-waste Resource Engineering and Management
+**Arvind Kumar Yadav**
+
+
+
+M.Tech - E-waste Resource Engineering and Management
 
 
 
 Indian Institute of Technology Hyderabad
+
+
 
